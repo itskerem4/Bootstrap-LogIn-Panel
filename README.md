@@ -1,6 +1,6 @@
 # Bootstrap-LogIn-Panel
 
-A Login and Registration Panel with Bootstrap Card Structure and Form Tools
+A Login Panel with Bootstrap Form Tools
 
 For help ;
 
