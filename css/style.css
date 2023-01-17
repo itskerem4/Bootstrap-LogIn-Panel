@@ -1,0 +1,12 @@
+.yuk{
+   height:  100vh;
+}
+.kutu{
+    height: 500px;
+    width: 500px; 
+}
+@media screen and (max-width: 770px){ .hide-on-mobile { display: none; } } 
+
+body{
+    background-image:url(../img/bg.jpg);
+}
